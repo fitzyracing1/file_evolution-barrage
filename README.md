@@ -1,2 +1,5 @@
 # file_evolution-barrage
-Barrage plain-language clone of fitzyracing1/file_evolution
+
+Barrage clone of [fitzyracing1/file_evolution](https://github.com/fitzyracing1/file_evolution).
+
+Read [listing.barrage](listing.barrage).
